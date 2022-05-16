@@ -1,3 +1,4 @@
-this is file 2.
+This is file 2.
 It failed.
 Now it's ok. I fixed it.
+Oops, forgot to capitalize the T.
